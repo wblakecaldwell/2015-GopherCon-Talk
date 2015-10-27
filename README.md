@@ -7,6 +7,10 @@ Slides
 
 [2015-GopherCon-Talk-Uptime.pdf](2015-GopherCon-Talk-Uptime.pdf)
 
+Notes
+-----
+
+[Creating Great Version Strings](Versioning-HOWTO.md)
 
 Go Memory Profiler
 -----------------
